@@ -1,0 +1,21 @@
+* {
+    font-family: 'Trebuchet MS'
+}
+
+.main {
+    width: 300px;
+    margin: 15px;
+    border: 20px solid rgb(13, 122, 13);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px rgb(87, 61, 4);
+}
+
+.head {
+    border-style: solid;
+    border-color: rgb(87, 61, 4);
+}
+
+.content {
+    text-align: left;
+}
